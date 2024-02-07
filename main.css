@@ -21,7 +21,7 @@
     --channels-width: 220px;
     --members-width: 240px;
     --background-shading: 100%;
-    --background-overlay: rgba(0, 0, 0, 0.6);
+    --background-overlay: rgba(0, 0, 0, 0.229);
     --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
     --background-position: center;
     --background-size: cover;
@@ -34,7 +34,7 @@
     --background-grayscale: 0%;
     --background-sepia: 0%;
     --background-blur: 0px;
-    --backdrop-overlay: rgba(0, 0, 0, 0.8);
+    --backdrop-overlay: rgba(0, 0, 0, 0.523);
     --backdrop-image: var(--background-image);
     --backdrop-position: var(--background-position);
     --backdrop-size: var(--background-size);
