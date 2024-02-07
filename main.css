@@ -550,14 +550,14 @@ textarea,
 }
 
 .typeWindows__5fa63>.wordmark__0d178:before {
-    content: "ClearVision";
+    content: "Jonathas Discord";
     color: rgba(255, 255, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000
 }
 
 .typeWindows__5fa63>.wordmark__0d178:after {
-    content: "v6.3.0";
+    content: "jonathas.oliveira";
     color: rgba(255, 255, 255, .3);
     font-family: var(--code-font);
     font-size: 10px
@@ -1330,14 +1330,14 @@ button.button__4f306.disabled_dc5630>.contents_fb6220>svg {
 }
 
 .theme-dark .container_ca50b9:before {
-    content: "ClearVision";
+    content: "Jonathas Discord";
     right: 50%;
     text-align: right;
     transform: translateX(50%)
 }
 
 .theme-dark .container_ca50b9:after {
-    content: "v6.3.0";
+    content: "jonathas.oliveira";
     left: 50%;
     text-align: left;
     opacity: 0;
